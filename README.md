@@ -31,6 +31,8 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 * 75% Projects (3 projects, 25% each)
 * 25% Exercises
 
+## Previous survey
+For the purpose of the last project, in which we will construct an NLP algorithm to classify text, it would be great to have some information on the students' background. Please, fill [this survey](https://forms.gle/UGfdXjGyPTVbcaS38) below.
 
 ## Schedule
 
