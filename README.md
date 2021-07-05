@@ -1,6 +1,6 @@
 # Advanced Methods in Data Analysis
 
-*Instructor: Alejandro Correa Bahnsen*
+*Instructor: David Zarruk Valencia*
 
 - email: <al.bahnsen@gmail.com>
 - twitter: [@albahnsen](https://twitter.com/albahnsen)
