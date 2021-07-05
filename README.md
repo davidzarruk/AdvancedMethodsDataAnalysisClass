@@ -2,6 +2,8 @@
 
 *Instructor: David Zarruk Valencia*
 
+The structure of the course and class notes were provided by [Alejandro Correa Bahnsen](https://github.com/albahnsen/AdvancedMethodsDataAnalysisClass).
+
 - email: <davidzarruk@gmail.com>
 - github: [davidzarruk](http://github.com/davidzarruk)
 
@@ -22,7 +24,7 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 * [scikit-learn](http://scikit-learn.org), Machine learning library!
 * [prophet](https://facebook.github.io/prophet/), Time series forecasting library by Facebook.
 
-A good, easy to install option that supports Mac, Windows, and Linux, and that has all of these packages (and much more) is the [Anaconda](https://www.continuum.io/).
+A good, easy to install option that supports Mac, Windows, and Linux, and that has all of these packages (and many more) is the [Anaconda](https://www.continuum.io/).
 
 GIT!! Unfortunatelly out of the scope of this class, but please take a look at these [tutorials](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
@@ -32,7 +34,7 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 * 25% Exercises
 
 ## Previous survey
-For the purpose of the last project, in which we will construct an NLP algorithm to classify text, it would be great to have some information on the students' background. Please, fill [this survey](https://forms.gle/UGfdXjGyPTVbcaS38) below.
+For the purpose of the last project, in which we will construct an NLP algorithm to classify text, it would be great to have some information on the students' background. Please, fill [this survey](https://forms.gle/UGfdXjGyPTVbcaS38).
 
 ## Schedule
 
