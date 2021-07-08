@@ -40,6 +40,15 @@ There are three projects during the course. Each project must be developed in gr
 ## Previous survey
 For the purpose of the last project, in which we will construct an NLP algorithm to classify text, it would be great to have some information on the students' background. Please, fill [this survey](https://forms.gle/UGfdXjGyPTVbcaS38).
 
+## People
+Graduate assistant: [Vanessa Sierra](vs.luna10@uniandes.edu.co)
+Monitor: [Felipe Rueda](f.ruedar@uniandes.edu.co)
+Instructor: [David Zarruk](d.zarruk93@uniandes.edu.co)
+
+## Office hours:
+Vanessa: Mondays 6-7pm
+David: Wednesdays 6-7pm
+
 ## Schedule
 
 ### Time Series Analysis
