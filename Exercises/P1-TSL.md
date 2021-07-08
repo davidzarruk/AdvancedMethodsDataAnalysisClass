@@ -5,7 +5,7 @@ Due date: July 18, 2021, 11:59 pm
 - The result will be evaluated from a report in Jupyter, which must be found in a public GitHub repository.
 - The project must be carried out in the groups assigned in class.
 - Use clear and rigorous procedures.
-- Due date: July 18, 2021, 11:59 pm, through Sicua + (Upload repository link)
+- Due date: July 18, 2021, 11:59 pm, through Bloque Neón + (Upload repository link)
 - Projects will not be received after the delivery time or by any other means than the one established.
 
 The project seeks to analyze a question of interest, which can be framed within a context, in order to interpret the results
