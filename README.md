@@ -42,7 +42,9 @@ For the purpose of the last project, in which we will construct an NLP algorithm
 
 ## People
 Graduate assistant: [Vanessa Sierra](vs.luna10@uniandes.edu.co)
+
 Monitor: [Felipe Rueda](f.ruedar@uniandes.edu.co)
+
 Instructor: [David Zarruk](d.zarruk93@uniandes.edu.co)
 
 ## Office hours:
