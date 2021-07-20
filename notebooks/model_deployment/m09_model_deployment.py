@@ -1,13 +1,13 @@
 #!/usr/bin/python
 
 import pandas as pd
-from sklearn.externals import joblib
+import pickle
 import sys
 import os
 
 def predict_proba(url):
 
-    clf = joblib.load(os.path.dirname(__file__) + '/phishing_clf.pkl') 
+    clf =  pickle.load(open(os.path.dirname(__file__) + '/phishing_clf.pkl', 'rb'))
 
     url_ = pd.DataFrame([url], columns=['url'])
   

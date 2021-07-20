@@ -1,7 +1,6 @@
 #!/usr/bin/python
 from flask import Flask
 from flask_restplus import Api, Resource, fields
-from sklearn.externals import joblib
 from m09_model_deployment import predict_proba
 
 app = Flask(__name__)
