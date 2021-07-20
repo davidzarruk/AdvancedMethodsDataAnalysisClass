@@ -9,7 +9,7 @@ api = Api(app)
 class URLpredict(Resource):
     def get(self):
         return {
-         "result": predict_proba(request['URL'])
+         "result": predict_proba(request.args.get('URL'))
         }, 200
 
 api.add_resource(URLpredict, '/predict')
