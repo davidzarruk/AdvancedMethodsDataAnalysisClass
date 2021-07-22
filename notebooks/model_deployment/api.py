@@ -7,7 +7,8 @@ app = Flask(__name__)
 @app.route('/predict', methods=['GET'])
 def URLpredict():
     return {
-         "result": predict_proba(request.args.get('URL'))
+         "result": predict_proba(request.args.get('URL')),
+         "nombre": request.args.get('nombre')
         }, 200
 
 @app.route('/health', methods=['GET'])
