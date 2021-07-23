@@ -7,13 +7,23 @@ app = Flask(__name__)
 @app.route('/predict', methods=['GET'])
 def URLpredict():
     return {
-         "result": predict_proba(request.args.get('URL')),
-         "nombre": request.args.get('nombre')
+         "result": predict_proba(request.args.get('URL'))
         }, 200
 
-@app.route('/health', methods=['GET'])
-def health():
-    return 'ok'
+@app.route('/hola', methods=['GET'])
+def hola():
+    return {
+         "result": "todo bien"
+        }, 200
+
+
+@app.route('/nombre', methods=['GET'])
+def nombre():
+    return {
+         "nombre": request.args.get('NOMBRE'),
+         "apellido": request.args.get('APELLIDO')
+        }, 200
+
 
 if __name__ == '__main__':
     app.run(debug=True, use_reloader=False, host='0.0.0.0', port=8888)
