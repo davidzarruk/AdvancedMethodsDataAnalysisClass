@@ -6,16 +6,24 @@ app = Flask(__name__)
 
 @app.route('/predict', methods=['GET'])
 def URLpredict():
-    return predict_proba(request.args.get('URL'))
+    return {
+         "result": predict_proba(request.args.get('URL'))
+        }, 200
+
 
 @app.route('/hola', methods=['GET'])
 def hola():
-    return "todo bien"
+    return {
+         "result": "todo bien"
+        }, 200
 
 
 @app.route('/nombre', methods=['GET'])
 def nombre():
-    return request.args.get('NOMBRE')
+    return {
+         "nombre": request.args.get('NOMBRE'),
+         "apellido": request.args.get('APELLIDO')
+        }, 200
 
 
 if __name__ == '__main__':
